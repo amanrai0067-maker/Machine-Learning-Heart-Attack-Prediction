@@ -1,6 +1,6 @@
 # Heart Attack Prediction Using Machine Learning
 
-🔗 Live Demo: https://your-app-url.onrender.com
+🔗 Live Demo: http://localhost:8501/
 
 ## Features
 - Predicts heart attack risk
